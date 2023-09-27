@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Define the URL of your app on Google Play for rating
-                String appUrl = "https://play.google.com/store/apps/details?id=com.watchfacestudio.militaryf01"; // Replace with your app's package name
+                String appUrl = "https://play.google.com/store/apps/details?id=com.artistrytimestudios.f02"; // Replace with your app's package name
 
                 // Create an Intent to open the app's page on Google Play
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(appUrl));
