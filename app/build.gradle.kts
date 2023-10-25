@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace = "com.artistrytimestudios.f02"
+    namespace = "com.artistrytimestudios.f02_12H"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.artistrytimestudios.f02"
+        applicationId = "com.artistrytimestudios.f02_12H"
         minSdk = 28
         targetSdk = 33
-        versionCode = 5
-        versionName = "0.0.3"
+        versionCode = 1
+        versionName = "0.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
